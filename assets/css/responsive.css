@@ -75,6 +75,9 @@
         max-width: 412px;
         border-radius: 2px 2px 2px 2px;
     }
+    #footer .copyright p > a{
+        font-style: 16px;
+     }
 
 }
 
