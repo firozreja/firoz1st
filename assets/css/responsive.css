@@ -69,5 +69,14 @@
     .contact_info .details_2{
         margin-left: 33px;
     }
+    .profile .avator_2 img {
+        height: 500px;
+        width: 412px;
+        border-radius: 2px 2px 2px 2px;
+    }
+    .portfolio_items ul li li li li{
+        
+    }
 
 }
+
