@@ -9,8 +9,9 @@
     padding: 0;
     box-sizing: border-box;
 }
-
-
+html{
+    scroll-behavior: smooth;
+}
 body{
     font-size: 16px;
     background-color: #f5f5f5;
@@ -524,9 +525,7 @@ banner section
     align-items: center;
     justify-content: center;
 }
-.contact_form form{
-   
-}
+
 .contact_form form .name_email{
     display: flex;
     flex-wrap: nowrap;
@@ -570,7 +569,7 @@ banner section
     border-radius: 25px;
     transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
 }
-.contact_form form .contact_subject{}
+
 .contact_form form .contact_subject .subject{
     display: block;
     width: 100%;
@@ -630,10 +629,7 @@ banner section
     background-color: #0bceaf;
     padding: 25px 0 15px 0;
 }
-#footer .container{}
-#footer .container .inner_footer{
 
-}
 #footer .container .inner_footer ul {
     display: flex;
     justify-content: center;
