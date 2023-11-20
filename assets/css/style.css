@@ -616,6 +616,7 @@ banner section
     border-radius: 100px;
     cursor: pointer;
     font-weight: 400;
+    overflow: hidden;
 }
 .contact_form form .send_box:hover .button_box .button{
     background-color: #0bceaf;
