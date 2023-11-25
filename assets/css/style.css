@@ -227,11 +227,11 @@ banner section
     margin: 20px 0;
 }
 .personal_info .contact_information{
-    margin-top: 40px;
+    margin-top: 35px;
 }
 .personal_info .contact_information li{
     list-style: none;
-    margin-bottom: 25px;
+    line-height: 2.5;
 
 }
 .personal_info .contact_information li span{
@@ -355,6 +355,7 @@ banner section
     max-width: 100%;
     width: 100%;
 }
+
 .inner_portfolio .portfolio_box .box .box_image img{
     max-width: 100%;
     width: 100%;
@@ -507,11 +508,8 @@ banner section
     padding-left: 24px;
    
 }   
-.contact_info .contact_icon_details .contact_description .contract_text2{
-    color: #091E3E;
-    font-size: 24px;
+.contact_info .contact_icon_details .contact_description .contact_text2{
     font-weight: 900;
-    line-height: 1.2;
 }
 .contact_info .contact_icon_details .contact_description .contract_phn{
     font-size: 24px;
@@ -665,17 +663,10 @@ banner section
 #footer .container .inner_footer > ul  li  a:hover{
     background-color: #e8eaec;
     font-style: 16px;
-    
 }
 
-.inner_footer .footer_items{
-
-}
- #footer .inner_footer .footer_items .item_list{}
  #footer .inner_footer .footer_items .item_list .list{
-   
     display: flex;
-
  }
  #footer .inner_footer .footer_items .item_list .list a{
     color: #fff;
@@ -699,18 +690,5 @@ banner section
  }
  #footer .copyright p{
     color: #fff;
- }
- #footer .copyright p > a{
-    color: #fff;
-    text-decoration: none;
-    font-style: 32px;
     font-weight: 700;
  }
- #footer .copyright p > span{
-    color: aliceblue;
- }
-
- #footer .copyright p > a:hover{
-    text-decoration: underline;
- }
- 
