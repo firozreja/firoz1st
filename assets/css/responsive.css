@@ -67,17 +67,12 @@
         margin-bottom: 19px;
     }
     .contact_info .details_2{
-        margin-left: 33px;
+        margin-left: 39px;
     }
     .profile .avator_2 img {
         height: 500px;
         width: 100%;
         max-width: 412px;
         border-radius: 2px 2px 2px 2px;
-    }
-    #footer .copyright p > a{
-        font-style: 16px;
-     }
-
 }
 
